@@ -15,6 +15,7 @@ Training demos
 Agregando deployment
 
 ## How to Contribute
+Please fork this reposytory and then issue pull request for review
 
 ### Copyright
 
