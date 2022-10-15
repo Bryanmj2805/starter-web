@@ -8,6 +8,10 @@ This is example is to whow differentes parts of the git
 
 ## Purpose
 
+Training demos
+
 ## Deployment
+
+Agregando deployment
 
 ## How to Contribute
